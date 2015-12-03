@@ -1,5 +1,6 @@
 <?php
 // from: http://php.thedemosite.co.uk/
+// aanpassing code
 // version 1.0
 class dbc extends PDO
 {
